@@ -1,0 +1,52 @@
+{
+  "company": "Alpha Engineer Group",
+  "firmware": 0,
+  "modification": 0,
+  "actualizacion": 0,
+  "hardware": 1,
+  "buildDate": 1728777600,
+  "fileSize": 1169504,
+  "PortServer": 443,
+  "HostServer": "raw.githubusercontent.com",
+  "checksum": "f968b7999ae1642ee92b7af5ab8e5ba2",
+  "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware.bin",
+  "fileVers": "/apateti/updateFirmware_Hard_1_0/main/version.json",
+  "filePart": [
+    {
+      "nameFile": "firmware001.bin",
+      "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware001.bin",
+      "checksum": "42a1c4819277f675cc16db28740fee21",
+      "fileSize": 204800
+    },
+    {
+      "nameFile": "firmware002.bin",
+      "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware002.bin",
+      "checksum": "d68f605a5ec977a851a1abe48fef80c3",
+      "fileSize": 204800
+    },
+    {
+      "nameFile": "firmware003.bin",
+      "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware003.bin",
+      "checksum": "c247adec26aa087da3ea1d14adf2e9ef",
+      "fileSize": 204800
+    },
+    {
+      "nameFile": "firmware004.bin",
+      "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware004.bin",
+      "checksum": "29e0129c4f4af55ea757e8df09eb8d43",
+      "fileSize": 204800
+    },
+    {
+      "nameFile": "firmware005.bin",
+      "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware005.bin",
+      "checksum": "3bbaf49ee52888248883729508adbcc1",
+      "fileSize": 204800
+    },
+    {
+      "nameFile": "firmware006.bin",
+      "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware006.bin",
+      "checksum": "26db3d862593c4d9c92ec3d9a5a1c558",
+      "fileSize": 145504
+    }
+  ]
+}
