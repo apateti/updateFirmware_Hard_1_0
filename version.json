@@ -8,20 +8,20 @@
   "fileSize": 1468960,
   "PortServer": 443,
   "HostServer": "raw.githubusercontent.com",
-  "checksum": "0bebf0b77fb5ff9f8666c563d63f879d",
+  "checksum": "eea3e1f33a641cd6bf44a68b0165134b",
   "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware.bin",
   "fileVers": "/apateti/updateFirmware_Hard_1_0/main/version.json",
   "filePart": [
     {
       "nameFile": "firmware001.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware001.bin",
-      "checksum": "972dcbc2443e220f2415f8de99fee17c",
+      "checksum": "281bc0b93990c1c78e16944c9f9cb655",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware002.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware002.bin",
-      "checksum": "35e3012e35fa49c53f935052efe11746",
+      "checksum": "818c32845c4a8a1620e961e51cbbc65b",
       "fileSize": 204800
     },
     {
@@ -57,7 +57,7 @@
     {
       "nameFile": "firmware008.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware008.bin",
-      "checksum": "b28138a1ee975bb4ae2a42216b8c5bed",
+      "checksum": "c58581f85b24228035eab2691c133da6",
       "fileSize": 35360
     }
   ]
