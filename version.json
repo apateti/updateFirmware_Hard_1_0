@@ -5,60 +5,60 @@
   "actualizacion": 1,
   "hardware": 1,
   "buildDate": 1742702400,
-  "fileSize": 1468992,
+  "fileSize": 1469136,
   "PortServer": 443,
   "HostServer": "raw.githubusercontent.com",
-  "checksum": "ca56c6248800edb529484d33b000a678",
+  "checksum": "399ef1e26bd7dad043986f33daf22a1c",
   "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware.bin",
   "fileVers": "/apateti/updateFirmware_Hard_1_0/main/version.json",
   "filePart": [
     {
       "nameFile": "firmware001.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware001.bin",
-      "checksum": "f8bbeeb8e2100c106c24ab8f26d45ea5",
+      "checksum": "58e85313b9f8a6a71424dfec01d03bf1",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware002.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware002.bin",
-      "checksum": "0a67e058c2043480f4987182129b4df6",
+      "checksum": "b23a2e5500a88b79b017baca87e67d21",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware003.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware003.bin",
-      "checksum": "2384245b97c3ea4d4c095293a9add290",
+      "checksum": "f6d01d2ba36e14ba365c0041b196901b",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware004.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware004.bin",
-      "checksum": "ff0cee709f7e5f4c716b788a767cf9b9",
+      "checksum": "b71d31a355c6f51d5202c70bc536cef8",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware005.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware005.bin",
-      "checksum": "207a5b7fa0151e562fec2f1d83573a54",
+      "checksum": "00cf2c1a9a20a9f6f14fb0fe5c5313dc",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware006.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware006.bin",
-      "checksum": "cf965b6ac0bee91e683b4d1b9d1a70b0",
+      "checksum": "f03c8ed070cdc641a5d44bf7b88107f7",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware007.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware007.bin",
-      "checksum": "2ed3a4cb3d3d0bfaef279fbd69b04249",
+      "checksum": "89a1a69114467b07eed6c671a63190ba",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware008.bin",
       "filePath": "/apateti/updateFirmware_Hard_1_0/main/firmware008.bin",
-      "checksum": "e7ed1e5646b544fb4612d91dda50c644",
-      "fileSize": 35392
+      "checksum": "4f3c6f91b7e5e02dd4d0b0a00467d2d0",
+      "fileSize": 35536
     }
   ]
 }
